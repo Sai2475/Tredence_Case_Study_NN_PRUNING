@@ -60,7 +60,7 @@ Total Loss = Classification Loss + λ × Sparsity Loss
 
 ---
 
-## 📈 Key Observations
+##  Key Observations
 
 - 🔹 The model achieves **~53% sparsity** while maintaining good accuracy
 - 🔹 Significant compression with minimal performance loss
@@ -70,7 +70,7 @@ Total Loss = Classification Loss + λ × Sparsity Loss
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ### Gate Distribution
 - Clear separation between:
@@ -94,10 +94,10 @@ This leads to:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-- Python 🐍
-- PyTorch 🔥
+- Python 
+- PyTorch 
 - NumPy
 - Matplotlib
 
